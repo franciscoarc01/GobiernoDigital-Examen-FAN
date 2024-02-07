@@ -16,7 +16,7 @@ Tener Visual Studio
 
 Esto es una serie de pasos para entender el código
 
-Por definición, la ruta predefinida está enrutado a Documentos, de lo cual para cambiar es en la línea 9, esta finalidad lo hice para no poner el Path Absoluto
+Por definición, la ruta predefinida está enrutado a Documentos, de lo cual para cambiar es en la línea 9 del archivo Program.cs, esta finalidad lo hice para no poner el Path Absoluto
 
 ```
 9  List<string> lineasDeTexto = File.ReadAllLines(string.Format("C:\\Users\\franc\\OneDrive\\Documentos\\{0}", ruta)).ToList();
