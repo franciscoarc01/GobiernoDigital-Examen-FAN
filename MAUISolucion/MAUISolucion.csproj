@@ -63,7 +63,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\ConsolaSolucion\ConsolaSolucion.csproj" />
+	  <ProjectReference Include="..\Libreria\Libreria.csproj" />
 	</ItemGroup>
 
 </Project>
